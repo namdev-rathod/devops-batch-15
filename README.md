@@ -3,6 +3,8 @@
 Welcome to the **DevOps Batch 15** learning repository! 🎯
 This repository contains hands-on labs, practical exercises, real-world examples, and projects covering modern DevOps tools and practices. 🛠️
 
+This is real time based learning...!!
+
 ### 📚 What You Will Learn
 
 * 🔀 **Git & GitHub/GitLab** — Version control and collaboration
