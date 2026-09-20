@@ -7,6 +7,9 @@ This is real time based learning...!!
 
 This is feature branch changes..!!
 
+
+Testing PR rules
+
 ### 📚 What You Will Learn
 
 * 🔀 **Git & GitHub/GitLab** — Version control and collaboration
